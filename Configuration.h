@@ -166,7 +166,7 @@
 #define Z_DRIVER_TYPE  A4988
 //#define X2_DRIVER_TYPE A4988
 //#define Y2_DRIVER_TYPE A4988
-//#define Z2_DRIVER_TYPE A4988
+#define Z2_DRIVER_TYPE A4988
 //#define Z3_DRIVER_TYPE A4988
 //#define Z4_DRIVER_TYPE A4988
 //#define I_DRIVER_TYPE  A4988
@@ -1393,7 +1393,7 @@
  * Override with M204
  *
  *   M204 P    Acceleration
- *   M204 R    Retract Acceleration
+ *   M204 R    Retract Acceleratio
  *   M204 T    Travel Acceleration
  */
 #define DEFAULT_ACCELERATION           500    // X, Y, Z and E acceleration for printing moves
