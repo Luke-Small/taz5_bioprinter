@@ -688,7 +688,7 @@
 #define HEATER_5_MAXTEMP 250
 #define HEATER_6_MAXTEMP 250
 #define HEATER_7_MAXTEMP 250
-#define BED_MAXTEMP      150
+#define BED_MAXTEMP      37
 #define CHAMBER_MAXTEMP  60
 
 /**
